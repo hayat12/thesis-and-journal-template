@@ -1,0 +1,9 @@
+.try{
+    position: relative;
+    //background-image: url(ii.jpg);
+    height: 100%;
+    width: 100%;
+}
+.area{
+    position: absolute;
+}

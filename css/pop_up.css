@@ -1,0 +1,59 @@
+.mycolor td{
+	border:none;
+}
+.mycolor input[type = 'button']{
+	width:50px;
+}
+
+.mycolor{
+	background-color: #D1CCCC;
+	width:16.2%;
+	position:fixed;
+	margin-left:13%;
+}
+.headers td{
+	border:none;
+}
+.headers input[type = 'button']{
+	width:100%;
+}
+.headers{
+	position:fixed;
+	background-color: #D1CCCC;
+	width:11%;
+}
+.Pop{
+	padding:2%;
+	height:40%;
+	width:35%;
+	position:fixed;
+	margin-left:25%;
+	margin-top:10%;
+	border:1px solid #000000;
+	border-radius:8px;
+	background-color: #f2f2f2
+}
+.pclose{
+	float:right;
+	background-color:inherit;
+	font-size:16px;
+	height:10%;
+	width:5%;
+	}
+	.phead{
+		text-align:center;
+	}
+.material-icons{
+	color:black;
+	cursor:pointer;
+}
+.material-icons:hover , .material-icons:focus{
+	color:red;
+}
+#closeR{
+	float:right;
+	font-size:30px;
+	height:20px;
+	width:50px;
+	background-color:red;
+}

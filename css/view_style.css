@@ -1,0 +1,78 @@
+body{
+	font-family: "Lato", sans-serif;
+}
+.file{
+    margin:px 0 0 100px;
+    position: absolute;
+}
+input[type = "submit"]{
+    height: 25px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+}
+input[type = "button"]{
+    height: 25px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+}
+.login{
+	background-color:#E0DDDD;
+	box-shadow:0px	20px 50px 10px #0F9197;
+}
+.login table td{
+	font-size:13px
+}
+.checkbox{
+background-color:#C5C0C1;
+}
+
+
+ul.tab {
+    list-style-type: none;
+	border-radius:12px;
+	width:20%;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #ccc;
+    background-color:#E0DDDD;
+	text-align:center
+}
+.tab ul, li{ 
+text-align:left;
+}
+/* Float the list items side by side */
+
+/* Style the links inside the list items */
+ul.tab li a {
+	height:35px;
+    display: inline-block;
+    color: black;
+    text-align:left;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 15px;
+}
+
+/* Change background color of links on hover */
+ul.tab li a:hover {
+    background-color:#6CB19B;
+	width:100%;
+}
+
+/* Create an active/current tablink class */
+ul.tab li a:focus, .active {
+    background-color:#90B3BB;
+	width:100%;
+}
+
+/* Style the tab content */
+.tabcontent {
+    padding: 6px 12px;
+    border: 1px solid #ccc;
+    border-top: none;
+}
+

@@ -1,0 +1,167 @@
+.area{
+    margin: 10px 0 0 250px;
+    height: auto;
+    width: 80%x;
+}
+.cove_tab{
+	background-color:steelblue;
+}
+.display{
+    height: auto;
+}
+.options{
+    background-color:#0bb5c6;
+	position:fixed;
+	width:100%;
+}
+
+input[type = "submit"]{
+    height: 25px;
+    width: 150px;
+    border-radius: 5px;
+    border: none;
+}
+input[type = "button"]{
+    width: 150px;
+    border: none;
+}
+
+.options input[type = "button"]{
+    background-color: #0bb5c6;
+    height: 18px;
+    width: 1.6%;
+	border-radius:0;
+}
+.options select{
+    background-color: #0bb5c6;
+	border:none;
+}
+.options input[type = "button"]:hover{
+    background-color:#1dc9da
+}
+
+input[type = "number"]{
+    height: 20px;
+    width: 65px;
+    font-size: 12px;
+    border-radius: 5px;
+    border: 2px solid white;
+}
+textarea{
+	height:150PX;
+	width:100%;
+	resize:none;	
+}
+.area textarea{
+	height:600px;
+	width:70%;
+	resize:none;
+	display:none;	
+}
+iframe{
+	border:#000000 1px solid; 
+	width:70%; 
+	height:720px; background-color: white;
+    border-radius: 4px;
+	border-radius:2px; 
+	border-top: 30px solid #e7e6e5;
+	border-left: 8px solid #e7e6e5;
+	 border-right: 8px solid #e7e6e5; 
+	 border-bottom: 30px solid #e7e6e5; 
+	 resize: none;
+}
+.not_required{
+	height:100%;
+	width:99.10%;
+	background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.6);
+	margin-left:-0.1%;
+	padding:px;
+	position:fixed;
+}
+.createThesisCover{
+	width:70%;
+	margin-left:20%;
+	background-color:#CCC5C5;
+	border-radius:12px;
+	padding:5%;
+	
+}
+.createThesisCover input[type = "text"]{
+	width:270%;
+	border:none;
+	height:170%;
+	border-radius:2px;
+}
+.createThesisCover input[type = "email"]{
+	width:270%;
+	border:none;
+	height:170%;
+	border-radius:2px;
+}
+.createThesisCover input[type = "date"]{
+	width:270%;
+	border:none;
+	height:170%;
+	border-radius:2px;
+}
+.createThesisCover select{
+	width:270%;
+	border:none;
+	height:150%;
+	border-radius:2px;
+	}
+.created_journal{
+	background-color:#F79053;
+	height:40px;
+	width:50%;
+	margin-left:25%;
+	margin-top:-45;
+	padding:1%;
+}
+.addAutor{
+	margin-top:5%;
+	height: auto;
+	width:70%;
+	border-radius:12px; 
+	background-color:#B3ADAD; 
+	margin-left:20%; 
+	padding:5%; 
+}
+
+.addAutor table, tr{
+	border:none;
+	width:100%;
+}
+.addAutor table, tr, td, th{
+	border:none;
+}
+
+.addAutor input[type = "text"]{
+	width:100%;
+	height:100%;
+	border:none;
+}
+.addAutor input[type = "email"]{
+	width:100%;
+	height:100%;
+	border:none;
+}
+.IMG_Guide{
+	margin-top:5%;
+	height:auto;
+	padding:5%;
+	width:70%;
+	margin-left:25%;
+	background-color:#D8CECE;
+	border-radius:12px;
+}
+.DeleteAothor{
+	margin-top:5%;
+	height: auto;
+	width:70%;
+	border-radius:12px; 
+	background-color:#B3ADAD; 
+	margin-left:20%; 
+	padding:5%;
+}

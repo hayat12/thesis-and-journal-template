@@ -1,0 +1,19 @@
+input[type = "text"]{
+    border-radius: 2px;
+    width: 60%;
+    text-align: center;
+}
+input[type = "date"]{
+   border-radius: 2px;
+    width: 60%;
+    text-align: center;
+}
+.cov_display{
+		padding:5%;
+    width: 60%;
+    height: 110%;
+    background-color: white;
+    border-radius: 4px;
+	margin-left:20%;
+}
+table{margin-left:20%;}

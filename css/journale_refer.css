@@ -1,0 +1,39 @@
+.refe1{
+	padding:1%;
+	height:45%;
+	width:45%;
+	position:fixed;
+	margin-left:25%;
+	margin-top:10%;
+	border:1px solid #000000;
+	border-radius:8px;
+	background-color:#CBCBCB;
+}
+.refe{
+	overflow:auto;
+	padding:2%;
+	height:84%;
+	width:99%;
+	border-radius:8px;
+	background-color:#cbcbcb;
+}
+ .refe table {
+    border-collapse: collapse;
+    width: 100%;
+}
+.refe th{
+	text-align: left;
+    padding: 8px;
+}
+.refetd {
+    text-align: left;
+    padding: 8px;
+}
+ .refe th {
+    background-color: #4CAF50;
+    color: white;
+}
+.refe input[type = "button"]{
+	height:20px;
+	width:90px;
+}

@@ -1,0 +1,62 @@
+.DeleteAothor th{
+	background-color:#168619;
+}
+.DeleteAothor ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.DeleteAothor li {
+    float: left;
+	list-style:none;
+}
+
+.DeleteAothor li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+	
+}
+/*=====Add Author ====*/
+.addAutor th{
+	background-color:#168619;
+}
+.addAutor ul{
+	background-color:#C32D30;
+}
+
+.addAutor ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.addAutor li {
+    float: left;
+	list-style:none;
+}
+
+.addAutor li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+	.addAutor input[type = "text"]{
+		height:100%;
+		width:100%;
+		}
+.jcc input[type = "text"]{
+	width:270%;
+	border:none;
+	height:150%;
+	border-radius:2px;
+}

@@ -1,0 +1,15 @@
+body{
+	background-color:#E9E7E7;
+}
+.pageing{
+	height: auto;
+	width: 80%;
+	background-color: white;
+	margin-left: 10%;
+	padding: 3%;
+}
+.pageing img{
+	height: 40%;
+	width: 60%;
+	padding: 2%;
+}

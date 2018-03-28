@@ -1,0 +1,10 @@
+.UpdateThesisCover{
+	margin-left:2%;
+}
+.UpdateThesisCover textarea{
+	max-height:65%;
+	max-width:60%;
+}
+.UpdateThesisCover input[type = "text"],input[type = "email"],input[type = "date"]{
+	width:54%;
+}
